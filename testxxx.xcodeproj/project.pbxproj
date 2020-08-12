@@ -16,7 +16,7 @@
 		9186230124E39F4A005D5253 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9186230024E39F4A005D5253 /* main.m */; };
 		9186230B24E39F4A005D5253 /* testxxxTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9186230A24E39F4A005D5253 /* testxxxTests.m */; };
 		9186231624E39F4A005D5253 /* testxxxUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9186231524E39F4A005D5253 /* testxxxUITests.m */; };
-		9186232524E3BBF4005D5253 /* LiuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9186232424E3BBF4005D5253 /* LiuViewController.m */; };
+		91C1DADD24E3CAF1004F0669 /* ThisisanewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91C1DADC24E3CAF1004F0669 /* ThisisanewViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,8 +55,8 @@
 		9186231124E39F4A005D5253 /* testxxxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testxxxUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9186231524E39F4A005D5253 /* testxxxUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testxxxUITests.m; sourceTree = "<group>"; };
 		9186231724E39F4A005D5253 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9186232324E3BBF4005D5253 /* LiuViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LiuViewController.h; sourceTree = "<group>"; };
-		9186232424E3BBF4005D5253 /* LiuViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LiuViewController.m; sourceTree = "<group>"; };
+		91C1DADB24E3CAF1004F0669 /* ThisisanewViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThisisanewViewController.h; sourceTree = "<group>"; };
+		91C1DADC24E3CAF1004F0669 /* ThisisanewViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThisisanewViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,8 +113,8 @@
 				918622F224E39F47005D5253 /* SceneDelegate.m */,
 				918622F424E39F47005D5253 /* ViewController.h */,
 				918622F524E39F47005D5253 /* ViewController.m */,
-				9186232324E3BBF4005D5253 /* LiuViewController.h */,
-				9186232424E3BBF4005D5253 /* LiuViewController.m */,
+				91C1DADB24E3CAF1004F0669 /* ThisisanewViewController.h */,
+				91C1DADC24E3CAF1004F0669 /* ThisisanewViewController.m */,
 				918622F724E39F47005D5253 /* Main.storyboard */,
 				918622FA24E39F4A005D5253 /* Assets.xcassets */,
 				918622FC24E39F4A005D5253 /* LaunchScreen.storyboard */,
@@ -273,8 +273,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				918622F624E39F47005D5253 /* ViewController.m in Sources */,
+				91C1DADD24E3CAF1004F0669 /* ThisisanewViewController.m in Sources */,
 				918622F024E39F47005D5253 /* AppDelegate.m in Sources */,
-				9186232524E3BBF4005D5253 /* LiuViewController.m in Sources */,
 				9186230124E39F4A005D5253 /* main.m in Sources */,
 				918622F324E39F47005D5253 /* SceneDelegate.m in Sources */,
 			);

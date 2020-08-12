@@ -1,18 +1,18 @@
 //
-//  LiuViewController.m
+//  ThisisanewViewController.m
 //  testxxx
 //
 //  Created by SeeWorld on 2020/8/12.
 //  Copyright © 2020 liujinfan. All rights reserved.
 //
 
-#import "LiuViewController.h"
+#import "ThisisanewViewController.h"
 
-@interface LiuViewController ()
+@interface ThisisanewViewController ()
 
 @end
 
-@implementation LiuViewController
+@implementation ThisisanewViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

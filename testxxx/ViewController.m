@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"smciascmi");
     // Do any additional setup after loading the view.
 }
 
